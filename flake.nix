@@ -24,6 +24,7 @@
             tmux
             nushell
             carapace
+            sops
           ];
         };
     };
